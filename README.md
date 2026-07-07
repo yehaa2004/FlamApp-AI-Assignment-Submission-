@@ -135,3 +135,8 @@ python verify.py
   parameters simultaneously — the geometric decoupling (rotation/translation
   vs. envelope) turns it into a much better-conditioned 3-parameter fit that
   converges reliably and precisely.
+
+  ## Desmos link
+   https://www.desmos.com/calculator/ojpt5aavdn
+
+  https://www.desmos.com/calculator/fa17jzg0ho
