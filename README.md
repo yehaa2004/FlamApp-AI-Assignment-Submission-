@@ -137,6 +137,4 @@ python verify.py
   converges reliably and precisely.
 
   ## Desmos link
-   https://www.desmos.com/calculator/ojpt5aavdn
-
-  https://www.desmos.com/calculator/fa17jzg0ho
+   https://www.desmos.com/calculator/shsacwy1wp 
